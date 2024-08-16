@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553301997459",
+    "project_id": "trashhunter-2023trashapp",
+    "storage_bucket": "trashhunter-2023trashapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553301997459:android:cc211f7530f9e3c36eda66",
+        "android_client_info": {
+          "package_name": "com.example.trashhunters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPfXLcQmUJvQEpTocODoZXRfz22G6PwV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
